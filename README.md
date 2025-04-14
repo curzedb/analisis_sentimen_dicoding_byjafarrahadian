@@ -1,7 +1,7 @@
 # ANALISIS SENTIMEN ULASAN APLIKASI PADA GOOGLE PLAY STORE
 **Proyek Analisis Sentimen pada Ulasan Google Play Store Menggunakan Algoritma Naive Bayes, Random Forest, Logistic Regression, Decission Tree serta Perbandingannya antara TF-IDF dengan W2V**
 
-📌 **Dibuat untuk**: Proyek 1 Kelas Machine Learning Intermediate(Menengah)-Dicoding X IDCamp
+📌 **Dibuat untuk**: Submission Proyek 1 kelas Dicoding X IDCamp - Machine Learning Intermediate(Menengah)
 
 -------------------------------------------------------------------
 
